@@ -22,7 +22,7 @@ int squareMaker(int x, int y){
   newDimX = abs(x - y);
   newDimY = squareDim;
   
-  // print the squares with dimesions
+  // Print the squares with dimesions
   printf("%d X %d\n", squareDim, squareDim);
   
   // Exit the code if dimension is less than 1
