@@ -30,7 +30,7 @@ int squareMaker(int x, int y){
       exit(0);
   }
   
-  // Reciprocal of function squareMaker that takes input of the new rectangle
+  // Recursion of function squareMaker that takes input of the new rectangle
   squareMaker(newDimX, newDimY);
   
   return 0;
