@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Integer Variables
-int dimX, dimY, squareDim, newDimX, newDimY;
-
 // Function Prototype
 int squareMaker(int x, int y);
+
+// Integer Variables
+int dimX, dimY, squareDim, newDimX, newDimY;
 
 // Function Name: squareMaker
 // Parameters: dimensions of a rectangular shape i.e., x and y
